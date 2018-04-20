@@ -1,0 +1,12 @@
+{
+    "tabList": [{
+        "text": "Option 1",
+        "selected": true
+    }, {
+        "text": "Option 2",
+        "selected": false
+    }, {
+        "text": "Longer Option 3",
+        "selected": false
+    }]
+}
